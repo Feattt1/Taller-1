@@ -1,0 +1,1186 @@
+# depslib dependency file v1.0
+1740072969 source:c:\users\lool1\documents\taller1\boolean.cpp
+	"boolean.h"
+
+1740072971 c:\users\lool1\documents\taller1\boolean.h
+	<stdio.h>
+
+1740075241 source:c:\users\lool1\documents\taller1\string.cpp
+	"string.h"
+
+1739886524 c:\users\lool1\documents\taller1\string.h
+	"boolean.h"
+
+1740075357 source:c:\users\lool1\documents\taller1\main.cpp
+	"ABBEcuaciones.h"
+	"listadestrings.h"
+	"string.h"
+	<iostream>
+
+1739885794 c:\users\lool1\documents\taller1\abbecuaciones.h
+	"ecuacion.h"
+
+1739885750 c:\users\lool1\documents\taller1\ecuacion.h
+	"string.h"
+	"tipodegrado.h"
+	"primerGrado.h"
+	"segundoGrado.h"
+
+1739884388 c:\users\lool1\documents\taller1\tipodegrado.h
+	<stdio.h>
+
+1739884786 c:\users\lool1\documents\taller1\primergrado.h
+	<stdio.h>
+
+1739886616 c:\users\lool1\documents\taller1\segundogrado.h
+	<stdio.h>
+
+1739885350 c:\users\lool1\documents\taller1\listadestrings.h
+	"string.h"
+
+1740072969 source:c:\users\admin\desktop\ude estudio\taller-1-main\boolean.cpp
+	"boolean.h"
+
+1740072971 c:\users\admin\desktop\ude estudio\taller-1-main\boolean.h
+	<stdio.h>
+
+1740075357 source:c:\users\admin\desktop\ude estudio\taller-1-main\main.cpp
+	"ABBEcuaciones.h"
+	"listadestrings.h"
+	"string.h"
+	<iostream>
+
+1739885794 c:\users\admin\desktop\ude estudio\taller-1-main\abbecuaciones.h
+	"ecuacion.h"
+
+1739885750 c:\users\admin\desktop\ude estudio\taller-1-main\ecuacion.h
+	"string.h"
+	"tipodegrado.h"
+	"primerGrado.h"
+	"segundoGrado.h"
+
+1740095215 c:\users\admin\desktop\ude estudio\taller-1-main\string.h
+	"boolean.h"
+
+1740096478 c:\users\admin\desktop\ude estudio\taller-1-main\tipodegrado.h
+	<stdio.h>
+
+1740095295 c:\users\admin\desktop\ude estudio\taller-1-main\primergrado.h
+	<stdio.h>
+
+1740095968 c:\users\admin\desktop\ude estudio\taller-1-main\segundogrado.h
+	<stdio.h>
+
+1739885350 c:\users\admin\desktop\ude estudio\taller-1-main\listadestrings.h
+	"string.h"
+
+1740095322 source:c:\users\admin\desktop\ude estudio\taller-1-main\string.cpp
+	"string.h"
+
+1740143964 source:c:\users\admin\desktop\taller-1-main\main.cpp
+	"ABBEcuaciones.h"
+	"listadestrings.h"
+	"string.h"
+	<iostream>
+
+1739885794 c:\users\admin\desktop\taller-1-main\abbecuaciones.h
+	"ecuacion.h"
+
+1739885750 c:\users\admin\desktop\taller-1-main\ecuacion.h
+	"string.h"
+	"tipodegrado.h"
+	"primerGrado.h"
+	"segundoGrado.h"
+
+1740143593 c:\users\admin\desktop\taller-1-main\string.h
+	"boolean.h"
+
+1740072971 c:\users\admin\desktop\taller-1-main\boolean.h
+	<stdio.h>
+
+1740096478 c:\users\admin\desktop\taller-1-main\tipodegrado.h
+	<stdio.h>
+
+1740095295 c:\users\admin\desktop\taller-1-main\primergrado.h
+	<stdio.h>
+
+1740095968 c:\users\admin\desktop\taller-1-main\segundogrado.h
+	<stdio.h>
+
+1739885350 c:\users\admin\desktop\taller-1-main\listadestrings.h
+	"string.h"
+
+1740144154 source:c:\users\admin\desktop\taller-1-main\string.cpp
+	"string.h"
+
+1740097864 source:c:\users\admin\desktop\taller-1-main\boolean.cpp
+	"boolean.h"
+
+1740097864 source:c:\users\lool1\documents\taller-1-main\boolean.cpp
+	"boolean.h"
+
+1740072971 c:\users\lool1\documents\taller-1-main\boolean.h
+	<stdio.h>
+
+1740420406 source:c:\users\lool1\documents\taller-1-main\main.cpp
+	"ABBEcuaciones.h"
+	"listadestrings.h"
+	"string.h"
+	<iostream>
+	<stdio.h>
+	"primerGrado.h"
+
+1739885794 c:\users\lool1\documents\taller-1-main\abbecuaciones.h
+	"ecuacion.h"
+
+1740356153 c:\users\lool1\documents\taller-1-main\ecuacion.h
+	"string.h"
+	"tipodegrado.h"
+	"primerGrado.h"
+	"segundoGrado.h"
+
+1740143593 c:\users\lool1\documents\taller-1-main\string.h
+	"boolean.h"
+
+1740096478 c:\users\lool1\documents\taller-1-main\tipodegrado.h
+	<stdio.h>
+
+1740356153 c:\users\lool1\documents\taller-1-main\primergrado.h
+	<stdio.h>
+
+1740356153 c:\users\lool1\documents\taller-1-main\segundogrado.h
+	<stdio.h>
+
+1740145278 c:\users\lool1\documents\taller-1-main\listadestrings.h
+	"string.h"
+
+1740356153 source:c:\users\lool1\documents\taller-1-main\string.cpp
+	"string.h"
+
+1740420688 source:c:\users\lool1\documents\taller-1-main\primergrado.cpp
+	"primerGrado.h"
+
+1740420756 source:c:\users\lool1\documents\taller-1-main\segundogrado.cpp
+	"segundoGrado.h"
+
+1740097864 source:c:\users\felipe pf\desktop\taller-1-main\boolean.cpp
+	"boolean.h"
+
+1740072972 c:\users\felipe pf\desktop\taller-1-main\boolean.h
+	<stdio.h>
+
+1740447829 source:c:\users\felipe pf\desktop\taller-1-main\segundogrado.cpp
+	"segundoGrado.h"
+
+1740488626 c:\users\felipe pf\desktop\taller-1-main\segundogrado.h
+	<stdio.h>
+
+1740621138 source:c:\users\felipe pf\desktop\taller-1-main\string.cpp
+	"string.h"
+
+1740621149 c:\users\felipe pf\desktop\taller-1-main\string.h
+	"boolean.h"
+
+1740457406 source:c:\users\felipe pf\desktop\taller-1-main\main.cpp
+	"ABBEcuaciones.h"
+	"listadestrings.h"
+	"string.h"
+	<iostream>
+	<stdio.h>
+	"primerGrado.h"
+
+1739885794 c:\users\felipe pf\desktop\taller-1-main\abbecuaciones.h
+	"ecuacion.h"
+
+1740788644 c:\users\felipe pf\desktop\taller-1-main\ecuacion.h
+	"string.h"
+	"tipodegrado.h"
+	"primerGrado.h"
+	"segundoGrado.h"
+
+1740096478 c:\users\felipe pf\desktop\taller-1-main\tipodegrado.h
+	<stdio.h>
+
+1740488578 c:\users\felipe pf\desktop\taller-1-main\primergrado.h
+	<stdio.h>
+	"boolean.h"
+
+1740145278 c:\users\felipe pf\desktop\taller-1-main\listadestrings.h
+	"string.h"
+
+1740449608 source:c:\users\felipe pf\desktop\taller-1-main\primergrado.cpp
+	"primerGrado.h"
+
+1740457418 source:c:\users\felipe pf\desktop\taller-1-main\ecuacion.cpp
+	"ecuacion.h"
+
+1740097864 source:c:\users\lool1\desktop\taller-1-main\boolean.cpp
+	"boolean.h"
+
+1740072972 c:\users\lool1\desktop\taller-1-main\boolean.h
+	<stdio.h>
+
+1740457406 source:c:\users\lool1\desktop\taller-1-main\main.cpp
+	"ABBEcuaciones.h"
+	"listadestrings.h"
+	"string.h"
+	<iostream>
+	<stdio.h>
+	"primerGrado.h"
+
+1739885794 c:\users\lool1\desktop\taller-1-main\abbecuaciones.h
+	"ecuacion.h"
+
+1740489192 c:\users\lool1\desktop\taller-1-main\ecuacion.h
+	"string.h"
+	"tipodegrado.h"
+	"primerGrado.h"
+	"segundoGrado.h"
+
+1740621149 c:\users\lool1\desktop\taller-1-main\string.h
+	"boolean.h"
+
+1740096478 c:\users\lool1\desktop\taller-1-main\tipodegrado.h
+	<stdio.h>
+
+1740488578 c:\users\lool1\desktop\taller-1-main\primergrado.h
+	<stdio.h>
+	"boolean.h"
+
+1740488626 c:\users\lool1\desktop\taller-1-main\segundogrado.h
+	<stdio.h>
+
+1740145278 c:\users\lool1\desktop\taller-1-main\listadestrings.h
+	"string.h"
+
+1740617438 source:c:\users\lool1\desktop\taller-1-main\primergrado.cpp
+	"primerGrado.h"
+
+1740617853 source:c:\users\lool1\desktop\taller-1-main\segundogrado.cpp
+	"segundoGrado.h"
+
+1740621138 source:c:\users\lool1\desktop\taller-1-main\string.cpp
+	"string.h"
+
+1740709392 source:c:\users\lool1\desktop\taller-1-main\ecuacion.cpp
+	"ecuacion.h"
+	<math.h>
+
+1740097864 source:c:\users\admin\desktop\taller-1original\boolean.cpp
+	"boolean.h"
+
+1740072972 c:\users\admin\desktop\taller-1original\boolean.h
+	<stdio.h>
+
+1740457406 source:c:\users\admin\desktop\taller-1original\main.cpp
+	"ABBEcuaciones.h"
+	"listadestrings.h"
+	"string.h"
+	<iostream>
+	<stdio.h>
+	"primerGrado.h"
+
+1739885794 c:\users\admin\desktop\taller-1original\abbecuaciones.h
+	"ecuacion.h"
+
+1740788644 c:\users\admin\desktop\taller-1original\ecuacion.h
+	"string.h"
+	"tipodegrado.h"
+	"primerGrado.h"
+	"segundoGrado.h"
+
+1740790353 c:\users\admin\desktop\taller-1original\string.h
+	"boolean.h"
+
+1740096478 c:\users\admin\desktop\taller-1original\tipodegrado.h
+	<stdio.h>
+
+1740488578 c:\users\admin\desktop\taller-1original\primergrado.h
+	<stdio.h>
+	"boolean.h"
+
+1740488626 c:\users\admin\desktop\taller-1original\segundogrado.h
+	<stdio.h>
+
+1740713975 c:\users\admin\desktop\taller-1original\listadestrings.h
+	"string.h"
+
+1740838333 source:c:\users\lool1\desktop\taller-1original\taller-1original\ecuacion.cpp
+	"ecuacion.h"
+	<math.h>
+
+1740788644 c:\users\lool1\desktop\taller-1original\taller-1original\ecuacion.h
+	"string.h"
+	"tipodegrado.h"
+	"primerGrado.h"
+	"segundoGrado.h"
+
+1740790353 c:\users\lool1\desktop\taller-1original\taller-1original\string.h
+	"boolean.h"
+
+1740072972 c:\users\lool1\desktop\taller-1original\taller-1original\boolean.h
+	<stdio.h>
+
+1740840568 c:\users\lool1\desktop\taller-1original\taller-1original\tipodegrado.h
+	<stdio.h>
+	"boolean.h"
+
+1740488578 c:\users\lool1\desktop\taller-1original\taller-1original\primergrado.h
+	<stdio.h>
+	"boolean.h"
+
+1740488626 c:\users\lool1\desktop\taller-1original\taller-1original\segundogrado.h
+	<stdio.h>
+
+1740097864 source:c:\users\lool1\desktop\taller-1original\taller-1original\boolean.cpp
+	"boolean.h"
+
+1740840317 source:c:\users\lool1\desktop\taller-1original\taller-1original\main.cpp
+	<iostream>
+	"string.h"
+
+1740837548 source:c:\users\lool1\desktop\taller-1original\taller-1original\primergrado.cpp
+	"primerGrado.h"
+
+1740837508 source:c:\users\lool1\desktop\taller-1original\taller-1original\segundogrado.cpp
+	"segundoGrado.h"
+
+1740840078 source:c:\users\lool1\desktop\taller-1original\taller-1original\string.cpp
+	"string.h"
+
+1740840522 source:c:\users\lool1\desktop\taller-1original\taller-1original\listadestrings.cpp
+	"listadestrings.h"
+
+1740713975 c:\users\lool1\desktop\taller-1original\taller-1original\listadestrings.h
+	"string.h"
+
+1740097864 source:c:\users\lool1\desktop\taller-1original\taller-1original\tipodegrado.cpp
+	"tipodegrado.h"
+
+1740097864 source:c:\users\felipe pf\desktop\taller-1original\boolean.cpp
+	"boolean.h"
+
+1740072972 c:\users\felipe pf\desktop\taller-1original\boolean.h
+	<stdio.h>
+
+1740838333 source:c:\users\felipe pf\desktop\taller-1original\ecuacion.cpp
+	"ecuacion.h"
+	<math.h>
+
+1740788644 c:\users\felipe pf\desktop\taller-1original\ecuacion.h
+	"string.h"
+	"tipodegrado.h"
+	"primerGrado.h"
+	"segundoGrado.h"
+
+1740857363 c:\users\felipe pf\desktop\taller-1original\string.h
+	"boolean.h"
+
+1740840568 c:\users\felipe pf\desktop\taller-1original\tipodegrado.h
+	<stdio.h>
+	"boolean.h"
+
+1740488578 c:\users\felipe pf\desktop\taller-1original\primergrado.h
+	<stdio.h>
+	"boolean.h"
+
+1740488626 c:\users\felipe pf\desktop\taller-1original\segundogrado.h
+	<stdio.h>
+
+1740855808 source:c:\users\felipe pf\desktop\taller-1original\listadestrings.cpp
+	"listadestrings.h"
+
+1740848964 c:\users\felipe pf\desktop\taller-1original\listadestrings.h
+	"string.h"
+
+1740857257 source:c:\users\felipe pf\desktop\taller-1original\main.cpp
+	"listadestrings.h"
+
+1740837548 source:c:\users\felipe pf\desktop\taller-1original\primergrado.cpp
+	"primerGrado.h"
+
+1740837508 source:c:\users\felipe pf\desktop\taller-1original\segundogrado.cpp
+	"segundoGrado.h"
+
+1740857457 source:c:\users\felipe pf\desktop\taller-1original\string.cpp
+	"string.h"
+
+1740097864 source:c:\users\felipe pf\desktop\taller-1original\tipodegrado.cpp
+	"tipodegrado.h"
+
+1740097864 source:c:\users\lool1\desktop\taller original (1)\taller original\boolean.cpp
+	"boolean.h"
+
+1740072972 c:\users\lool1\desktop\taller original (1)\taller original\boolean.h
+	<stdio.h>
+
+1740838333 source:c:\users\lool1\desktop\taller original (1)\taller original\ecuacion.cpp
+	"ecuacion.h"
+	<math.h>
+
+1740788644 c:\users\lool1\desktop\taller original (1)\taller original\ecuacion.h
+	"string.h"
+	"tipodegrado.h"
+	"primerGrado.h"
+	"segundoGrado.h"
+
+1740857363 c:\users\lool1\desktop\taller original (1)\taller original\string.h
+	"boolean.h"
+
+1740840568 c:\users\lool1\desktop\taller original (1)\taller original\tipodegrado.h
+	<stdio.h>
+	"boolean.h"
+
+1740488578 c:\users\lool1\desktop\taller original (1)\taller original\primergrado.h
+	<stdio.h>
+	"boolean.h"
+
+1740488626 c:\users\lool1\desktop\taller original (1)\taller original\segundogrado.h
+	<stdio.h>
+
+1740948138 source:c:\users\lool1\desktop\taller original (1)\taller original\main.cpp
+	"listadestrings.h"
+
+1740947678 c:\users\lool1\desktop\taller original (1)\taller original\listadestrings.h
+	"string.h"
+
+1740837548 source:c:\users\lool1\desktop\taller original (1)\taller original\primergrado.cpp
+	"primerGrado.h"
+
+1740837508 source:c:\users\lool1\desktop\taller original (1)\taller original\segundogrado.cpp
+	"segundoGrado.h"
+
+1740948079 source:c:\users\lool1\desktop\taller original (1)\taller original\string.cpp
+	"string.h"
+
+1740097864 source:c:\users\lool1\desktop\taller original (1)\taller original\tipodegrado.cpp
+	"tipodegrado.h"
+
+1740947979 source:c:\users\lool1\desktop\taller original (1)\taller original\listadestrings.cpp
+	"listadestrings.h"
+
+1740945580 source:c:\users\lool1\desktop\taller original (1)\taller original\abbecuaciones.cpp
+	"ABBEcuaciones.h"
+
+1740894645 c:\users\lool1\desktop\taller original (1)\taller original\abbecuaciones.h
+	"ecuacion.h"
+
+1741196958 source:c:\users\felipe pf\desktop\taller original\boolean.cpp
+	"boolean.h"
+
+1741196958 c:\users\felipe pf\desktop\taller original\boolean.h
+	<stdio.h>
+
+1741356862 source:c:\users\felipe pf\desktop\taller original\ecuacion.cpp
+	"ecuacion.h"
+	<math.h>
+
+1741356862 c:\users\felipe pf\desktop\taller original\ecuacion.h
+	"string.h"
+	"tipodegrado.h"
+	"primerGrado.h"
+	"segundoGrado.h"
+
+1741223603 c:\users\felipe pf\desktop\taller original\string.h
+	"boolean.h"
+
+1741196958 c:\users\felipe pf\desktop\taller original\tipodegrado.h
+	<stdio.h>
+	"boolean.h"
+
+1741196958 c:\users\felipe pf\desktop\taller original\primergrado.h
+	<stdio.h>
+	"boolean.h"
+
+1741196958 c:\users\felipe pf\desktop\taller original\segundogrado.h
+	<stdio.h>
+
+1741224743 source:c:\users\felipe pf\desktop\taller original\listadestrings.cpp
+	"listadestrings.h"
+
+1741196958 c:\users\felipe pf\desktop\taller original\listadestrings.h
+	"string.h"
+
+1741360699 source:c:\users\felipe pf\desktop\taller original\main.cpp
+	<stdio.h>
+	"ABBEcuaciones.h"
+	"listadestrings.h"
+	"ecuacion.h"
+
+1741196958 source:c:\users\felipe pf\desktop\taller original\primergrado.cpp
+	"primerGrado.h"
+
+1741196958 source:c:\users\felipe pf\desktop\taller original\segundogrado.cpp
+	"segundoGrado.h"
+
+1741237701 source:c:\users\felipe pf\desktop\taller original\string.cpp
+	"string.h"
+
+1741196958 source:c:\users\felipe pf\desktop\taller original\tipodegrado.cpp
+	"tipodegrado.h"
+
+1740957697 c:\users\felipe pf\desktop\taller original\ecuacion.cpp
+	"ecuacion.h"
+	<math.h>
+
+1741237701 source:c:\users\felipe pf\desktop\taller original\abbecuaciones.cpp
+	"ABBEcuaciones.h"
+
+1741224437 c:\users\felipe pf\desktop\taller original\abbecuaciones.h
+	"ecuacion.h"
+
+1740097864 source:c:\users\lool1\desktop\taller original ultimo\taller original\boolean.cpp
+	"boolean.h"
+
+1740072972 c:\users\lool1\desktop\taller original ultimo\taller original\boolean.h
+	<stdio.h>
+
+1741103783 source:c:\users\lool1\desktop\taller original ultimo\taller original\ecuacion.cpp
+	"ecuacion.h"
+	<math.h>
+
+1741103856 c:\users\lool1\desktop\taller original ultimo\taller original\ecuacion.h
+	"string.h"
+	"tipodegrado.h"
+	"primerGrado.h"
+	"segundoGrado.h"
+
+1740857363 c:\users\lool1\desktop\taller original ultimo\taller original\string.h
+	"boolean.h"
+
+1740840568 c:\users\lool1\desktop\taller original ultimo\taller original\tipodegrado.h
+	<stdio.h>
+	"boolean.h"
+
+1740957320 c:\users\lool1\desktop\taller original ultimo\taller original\primergrado.h
+	<stdio.h>
+	"boolean.h"
+
+1740957320 c:\users\lool1\desktop\taller original ultimo\taller original\segundogrado.h
+	<stdio.h>
+
+1740947979 source:c:\users\lool1\desktop\taller original ultimo\taller original\listadestrings.cpp
+	"listadestrings.h"
+
+1740947678 c:\users\lool1\desktop\taller original ultimo\taller original\listadestrings.h
+	"string.h"
+
+1741128891 source:c:\users\lool1\desktop\taller original ultimo\taller original\main.cpp
+	<stdio.h>
+	"string.h"
+	"ecuacion.h"
+	"ABBEcuaciones.h"
+	"listadestrings.h"
+
+1741045067 c:\users\lool1\desktop\taller original ultimo\taller original\abbecuaciones.h
+	"ecuacion.h"
+
+1740955559 source:c:\users\lool1\desktop\taller original ultimo\taller original\primergrado.cpp
+	"primerGrado.h"
+
+1740955559 source:c:\users\lool1\desktop\taller original ultimo\taller original\segundogrado.cpp
+	"segundoGrado.h"
+
+1740958455 source:c:\users\lool1\desktop\taller original ultimo\taller original\string.cpp
+	"string.h"
+
+1740097864 source:c:\users\lool1\desktop\taller original ultimo\taller original\tipodegrado.cpp
+	"tipodegrado.h"
+
+1741129419 source:c:\users\lool1\desktop\taller original ultimo\taller original\abbecuaciones.cpp
+	"ABBEcuaciones.h"
+
+1740097864 source:c:\users\lool1\desktop\taller1 04-03-2025 20hs actualizada todo funcionando\taller original\boolean.cpp
+	"boolean.h"
+
+1740072972 c:\users\lool1\desktop\taller1 04-03-2025 20hs actualizada todo funcionando\taller original\boolean.h
+	<stdio.h>
+
+1741143692 source:c:\users\lool1\desktop\taller1 04-03-2025 20hs actualizada todo funcionando\taller original\ecuacion.cpp
+	"ecuacion.h"
+	<math.h>
+
+1741103856 c:\users\lool1\desktop\taller1 04-03-2025 20hs actualizada todo funcionando\taller original\ecuacion.h
+	"string.h"
+	"tipodegrado.h"
+	"primerGrado.h"
+	"segundoGrado.h"
+
+1740857363 c:\users\lool1\desktop\taller1 04-03-2025 20hs actualizada todo funcionando\taller original\string.h
+	"boolean.h"
+
+1740840568 c:\users\lool1\desktop\taller1 04-03-2025 20hs actualizada todo funcionando\taller original\tipodegrado.h
+	<stdio.h>
+	"boolean.h"
+
+1740957320 c:\users\lool1\desktop\taller1 04-03-2025 20hs actualizada todo funcionando\taller original\primergrado.h
+	<stdio.h>
+	"boolean.h"
+
+1740957320 c:\users\lool1\desktop\taller1 04-03-2025 20hs actualizada todo funcionando\taller original\segundogrado.h
+	<stdio.h>
+
+1740947979 source:c:\users\lool1\desktop\taller1 04-03-2025 20hs actualizada todo funcionando\taller original\listadestrings.cpp
+	"listadestrings.h"
+
+1740947678 c:\users\lool1\desktop\taller1 04-03-2025 20hs actualizada todo funcionando\taller original\listadestrings.h
+	"string.h"
+
+1741144110 source:c:\users\lool1\desktop\taller1 04-03-2025 20hs actualizada todo funcionando\taller original\main.cpp
+	"string.h"
+
+1741045067 c:\users\lool1\desktop\taller1 04-03-2025 20hs actualizada todo funcionando\taller original\abbecuaciones.h
+	"ecuacion.h"
+
+1740955559 source:c:\users\lool1\desktop\taller1 04-03-2025 20hs actualizada todo funcionando\taller original\primergrado.cpp
+	"primerGrado.h"
+
+1740955559 source:c:\users\lool1\desktop\taller1 04-03-2025 20hs actualizada todo funcionando\taller original\segundogrado.cpp
+	"segundoGrado.h"
+
+1741144247 source:c:\users\lool1\desktop\taller1 04-03-2025 20hs actualizada todo funcionando\taller original\string.cpp
+	"string.h"
+
+1740097864 source:c:\users\lool1\desktop\taller1 04-03-2025 20hs actualizada todo funcionando\taller original\tipodegrado.cpp
+	"tipodegrado.h"
+
+1741143775 source:c:\users\lool1\desktop\taller1 04-03-2025 20hs actualizada todo funcionando\taller original\abbecuaciones.cpp
+	"ABBEcuaciones.h"
+
+1740097864 source:c:\users\lool1\desktop\taller 1 - 05032025 - 0015hs\taller original\boolean.cpp
+	"boolean.h"
+
+1740072972 c:\users\lool1\desktop\taller 1 - 05032025 - 0015hs\taller original\boolean.h
+	<stdio.h>
+
+1741143692 source:c:\users\lool1\desktop\taller 1 - 05032025 - 0015hs\taller original\ecuacion.cpp
+	"ecuacion.h"
+	<math.h>
+
+1741103856 c:\users\lool1\desktop\taller 1 - 05032025 - 0015hs\taller original\ecuacion.h
+	"string.h"
+	"tipodegrado.h"
+	"primerGrado.h"
+	"segundoGrado.h"
+
+1740857363 c:\users\lool1\desktop\taller 1 - 05032025 - 0015hs\taller original\string.h
+	"boolean.h"
+
+1740840568 c:\users\lool1\desktop\taller 1 - 05032025 - 0015hs\taller original\tipodegrado.h
+	<stdio.h>
+	"boolean.h"
+
+1740957320 c:\users\lool1\desktop\taller 1 - 05032025 - 0015hs\taller original\primergrado.h
+	<stdio.h>
+	"boolean.h"
+
+1740957320 c:\users\lool1\desktop\taller 1 - 05032025 - 0015hs\taller original\segundogrado.h
+	<stdio.h>
+
+1740947979 source:c:\users\lool1\desktop\taller 1 - 05032025 - 0015hs\taller original\listadestrings.cpp
+	"listadestrings.h"
+
+1740947678 c:\users\lool1\desktop\taller 1 - 05032025 - 0015hs\taller original\listadestrings.h
+	"string.h"
+
+1740955559 source:c:\users\lool1\desktop\taller 1 - 05032025 - 0015hs\taller original\primergrado.cpp
+	"primerGrado.h"
+
+1740955559 source:c:\users\lool1\desktop\taller 1 - 05032025 - 0015hs\taller original\segundogrado.cpp
+	"segundoGrado.h"
+
+1741144247 source:c:\users\lool1\desktop\taller 1 - 05032025 - 0015hs\taller original\string.cpp
+	"string.h"
+
+1740097864 source:c:\users\lool1\desktop\taller 1 - 05032025 - 0015hs\taller original\tipodegrado.cpp
+	"tipodegrado.h"
+
+1741143775 source:c:\users\lool1\desktop\taller 1 - 05032025 - 0015hs\taller original\abbecuaciones.cpp
+	"ABBEcuaciones.h"
+
+1741045067 c:\users\lool1\desktop\taller 1 - 05032025 - 0015hs\taller original\abbecuaciones.h
+	"ecuacion.h"
+
+1741144686 source:c:\users\lool1\desktop\taller 1 - 05032025 - 0015hs\taller original\main.cpp
+	<stdio.h>
+	"string.h"
+	"ecuacion.h"
+	"ABBEcuaciones.h"
+	"listadestrings.h"
+
+1741180938 source:c:\users\lool1\desktop\taller version con main comenzado opciones mostrar crear y salir\taller 1 - 05032025 - 0015hs\taller original\abbecuaciones.cpp
+	"ABBEcuaciones.h"
+
+1741180623 c:\users\lool1\desktop\taller version con main comenzado opciones mostrar crear y salir\taller 1 - 05032025 - 0015hs\taller original\abbecuaciones.h
+	"ecuacion.h"
+
+1741178157 c:\users\lool1\desktop\taller version con main comenzado opciones mostrar crear y salir\taller 1 - 05032025 - 0015hs\taller original\ecuacion.h
+	"string.h"
+	"tipodegrado.h"
+	"primerGrado.h"
+	"segundoGrado.h"
+
+1741178157 c:\users\lool1\desktop\taller version con main comenzado opciones mostrar crear y salir\taller 1 - 05032025 - 0015hs\taller original\string.h
+	"boolean.h"
+
+1741178157 c:\users\lool1\desktop\taller version con main comenzado opciones mostrar crear y salir\taller 1 - 05032025 - 0015hs\taller original\boolean.h
+	<stdio.h>
+
+1741178157 c:\users\lool1\desktop\taller version con main comenzado opciones mostrar crear y salir\taller 1 - 05032025 - 0015hs\taller original\tipodegrado.h
+	<stdio.h>
+	"boolean.h"
+
+1741178157 c:\users\lool1\desktop\taller version con main comenzado opciones mostrar crear y salir\taller 1 - 05032025 - 0015hs\taller original\primergrado.h
+	<stdio.h>
+	"boolean.h"
+
+1741178157 c:\users\lool1\desktop\taller version con main comenzado opciones mostrar crear y salir\taller 1 - 05032025 - 0015hs\taller original\segundogrado.h
+	<stdio.h>
+
+1741178157 source:c:\users\lool1\desktop\taller version con main comenzado opciones mostrar crear y salir\taller 1 - 05032025 - 0015hs\taller original\boolean.cpp
+	"boolean.h"
+
+1741180623 source:c:\users\lool1\desktop\taller version con main comenzado opciones mostrar crear y salir\taller 1 - 05032025 - 0015hs\taller original\ecuacion.cpp
+	"ecuacion.h"
+	<math.h>
+
+1741181111 source:c:\users\lool1\desktop\taller version con main comenzado opciones mostrar crear y salir\taller 1 - 05032025 - 0015hs\taller original\listadestrings.cpp
+	"listadestrings.h"
+
+1741178157 c:\users\lool1\desktop\taller version con main comenzado opciones mostrar crear y salir\taller 1 - 05032025 - 0015hs\taller original\listadestrings.h
+	"string.h"
+
+1741178157 source:c:\users\lool1\desktop\taller version con main comenzado opciones mostrar crear y salir\taller 1 - 05032025 - 0015hs\taller original\primergrado.cpp
+	"primerGrado.h"
+
+1741178157 source:c:\users\lool1\desktop\taller version con main comenzado opciones mostrar crear y salir\taller 1 - 05032025 - 0015hs\taller original\segundogrado.cpp
+	"segundoGrado.h"
+
+1741178157 source:c:\users\lool1\desktop\taller version con main comenzado opciones mostrar crear y salir\taller 1 - 05032025 - 0015hs\taller original\string.cpp
+	"string.h"
+
+1741178157 source:c:\users\lool1\desktop\taller version con main comenzado opciones mostrar crear y salir\taller 1 - 05032025 - 0015hs\taller original\tipodegrado.cpp
+	"tipodegrado.h"
+
+1741181165 source:c:\users\lool1\desktop\taller version con main comenzado opciones mostrar crear y salir\taller 1 - 05032025 - 0015hs\taller original\main.cpp
+	<stdio.h>
+	"ABBEcuaciones.h"
+	"listadestrings.h"
+
+1741196958 source:c:\users\lool1\documents\taller correcion a hacer por profe\taller original\boolean.cpp
+	"boolean.h"
+
+1741196958 c:\users\lool1\documents\taller correcion a hacer por profe\taller original\boolean.h
+	<stdio.h>
+
+1741196979 source:c:\users\lool1\documents\taller correcion a hacer por profe\taller original\ecuacion.cpp
+	"ecuacion.h"
+	<math.h>
+
+1741196958 c:\users\lool1\documents\taller correcion a hacer por profe\taller original\ecuacion.h
+	"string.h"
+	"tipodegrado.h"
+	"primerGrado.h"
+	"segundoGrado.h"
+
+1741196958 c:\users\lool1\documents\taller correcion a hacer por profe\taller original\string.h
+	"boolean.h"
+
+1741196958 c:\users\lool1\documents\taller correcion a hacer por profe\taller original\tipodegrado.h
+	<stdio.h>
+	"boolean.h"
+
+1741196958 c:\users\lool1\documents\taller correcion a hacer por profe\taller original\primergrado.h
+	<stdio.h>
+	"boolean.h"
+
+1741196958 c:\users\lool1\documents\taller correcion a hacer por profe\taller original\segundogrado.h
+	<stdio.h>
+
+1741196958 source:c:\users\lool1\documents\taller correcion a hacer por profe\taller original\listadestrings.cpp
+	"listadestrings.h"
+
+1741196958 c:\users\lool1\documents\taller correcion a hacer por profe\taller original\listadestrings.h
+	"string.h"
+
+1741197197 source:c:\users\lool1\documents\taller correcion a hacer por profe\taller original\main.cpp
+	"listadestrings.h"
+	<stdio.h>
+	"ABBEcuaciones.h"
+
+1741196958 c:\users\lool1\documents\taller correcion a hacer por profe\taller original\abbecuaciones.h
+	"ecuacion.h"
+
+1741196958 source:c:\users\lool1\documents\taller correcion a hacer por profe\taller original\primergrado.cpp
+	"primerGrado.h"
+
+1741196958 source:c:\users\lool1\documents\taller correcion a hacer por profe\taller original\segundogrado.cpp
+	"segundoGrado.h"
+
+1741196958 source:c:\users\lool1\documents\taller correcion a hacer por profe\taller original\string.cpp
+	"string.h"
+
+1741196958 source:c:\users\lool1\documents\taller correcion a hacer por profe\taller original\tipodegrado.cpp
+	"tipodegrado.h"
+
+1741197197 source:c:\users\lool1\documents\taller correcion a hacer por profe\taller original\abbecuaciones.cpp
+	"ABBEcuaciones.h"
+
+1741196958 source:c:\users\lool1\desktop\taller todos los modulos ready\taller original\boolean.cpp
+	"boolean.h"
+
+1741196958 c:\users\lool1\desktop\taller todos los modulos ready\taller original\boolean.h
+	<stdio.h>
+
+1741196978 source:c:\users\lool1\desktop\taller todos los modulos ready\taller original\ecuacion.cpp
+	"ecuacion.h"
+	<math.h>
+
+1741196958 c:\users\lool1\desktop\taller todos los modulos ready\taller original\ecuacion.h
+	"string.h"
+	"tipodegrado.h"
+	"primerGrado.h"
+	"segundoGrado.h"
+
+1741196958 c:\users\lool1\desktop\taller todos los modulos ready\taller original\string.h
+	"boolean.h"
+
+1741196958 c:\users\lool1\desktop\taller todos los modulos ready\taller original\tipodegrado.h
+	<stdio.h>
+	"boolean.h"
+
+1741196958 c:\users\lool1\desktop\taller todos los modulos ready\taller original\primergrado.h
+	<stdio.h>
+	"boolean.h"
+
+1741196958 c:\users\lool1\desktop\taller todos los modulos ready\taller original\segundogrado.h
+	<stdio.h>
+
+1741196958 source:c:\users\lool1\desktop\taller todos los modulos ready\taller original\listadestrings.cpp
+	"listadestrings.h"
+
+1741196958 c:\users\lool1\desktop\taller todos los modulos ready\taller original\listadestrings.h
+	"string.h"
+
+1741197704 source:c:\users\lool1\desktop\taller todos los modulos ready\taller original\main.cpp
+	<stdio.h>
+	"ABBEcuaciones.h"
+	"listadestrings.h"
+
+1741196958 c:\users\lool1\desktop\taller todos los modulos ready\taller original\abbecuaciones.h
+	"ecuacion.h"
+
+1741196958 source:c:\users\lool1\desktop\taller todos los modulos ready\taller original\primergrado.cpp
+	"primerGrado.h"
+
+1741196958 source:c:\users\lool1\desktop\taller todos los modulos ready\taller original\segundogrado.cpp
+	"segundoGrado.h"
+
+1741196958 source:c:\users\lool1\desktop\taller todos los modulos ready\taller original\string.cpp
+	"string.h"
+
+1741196958 source:c:\users\lool1\desktop\taller todos los modulos ready\taller original\tipodegrado.cpp
+	"tipodegrado.h"
+
+1741197448 source:c:\users\lool1\desktop\taller todos los modulos ready\taller original\abbecuaciones.cpp
+	"ABBEcuaciones.h"
+
+1741199121 source:c:\users\lool1\desktop\taller version con modulos listo y main comenzado\taller original\abbecuaciones.cpp
+	"ABBEcuaciones.h"
+
+1741196958 c:\users\lool1\desktop\taller version con modulos listo y main comenzado\taller original\abbecuaciones.h
+	"ecuacion.h"
+
+1741196958 c:\users\lool1\desktop\taller version con modulos listo y main comenzado\taller original\ecuacion.h
+	"string.h"
+	"tipodegrado.h"
+	"primerGrado.h"
+	"segundoGrado.h"
+
+1741196958 c:\users\lool1\desktop\taller version con modulos listo y main comenzado\taller original\string.h
+	"boolean.h"
+
+1741196958 c:\users\lool1\desktop\taller version con modulos listo y main comenzado\taller original\boolean.h
+	<stdio.h>
+
+1741196958 c:\users\lool1\desktop\taller version con modulos listo y main comenzado\taller original\tipodegrado.h
+	<stdio.h>
+	"boolean.h"
+
+1741196958 c:\users\lool1\desktop\taller version con modulos listo y main comenzado\taller original\primergrado.h
+	<stdio.h>
+	"boolean.h"
+
+1741196958 c:\users\lool1\desktop\taller version con modulos listo y main comenzado\taller original\segundogrado.h
+	<stdio.h>
+
+1741196958 source:c:\users\lool1\desktop\taller version con modulos listo y main comenzado\taller original\boolean.cpp
+	"boolean.h"
+
+1741199088 source:c:\users\lool1\desktop\taller version con modulos listo y main comenzado\taller original\ecuacion.cpp
+	"ecuacion.h"
+	<math.h>
+
+1741196958 source:c:\users\lool1\desktop\taller version con modulos listo y main comenzado\taller original\listadestrings.cpp
+	"listadestrings.h"
+
+1741196958 c:\users\lool1\desktop\taller version con modulos listo y main comenzado\taller original\listadestrings.h
+	"string.h"
+
+1741196958 source:c:\users\lool1\desktop\taller version con modulos listo y main comenzado\taller original\primergrado.cpp
+	"primerGrado.h"
+
+1741196958 source:c:\users\lool1\desktop\taller version con modulos listo y main comenzado\taller original\segundogrado.cpp
+	"segundoGrado.h"
+
+1741196958 source:c:\users\lool1\desktop\taller version con modulos listo y main comenzado\taller original\string.cpp
+	"string.h"
+
+1741196958 source:c:\users\lool1\desktop\taller version con modulos listo y main comenzado\taller original\tipodegrado.cpp
+	"tipodegrado.h"
+
+1741199905 source:c:\users\lool1\desktop\taller version con modulos listo y main comenzado\taller original\main.cpp
+	<stdio.h>
+	"ABBEcuaciones.h"
+	"listadestrings.h"
+
+1741196958 source:c:\users\admin\desktop\taller original\boolean.cpp
+	"boolean.h"
+
+1741196958 c:\users\admin\desktop\taller original\boolean.h
+	<stdio.h>
+
+1741356862 source:c:\users\admin\desktop\taller original\ecuacion.cpp
+	"ecuacion.h"
+	<math.h>
+
+1741356862 c:\users\admin\desktop\taller original\ecuacion.h
+	"string.h"
+	"tipodegrado.h"
+	"primerGrado.h"
+	"segundoGrado.h"
+
+1741223603 c:\users\admin\desktop\taller original\string.h
+	"boolean.h"
+
+1741196958 c:\users\admin\desktop\taller original\tipodegrado.h
+	<stdio.h>
+	"boolean.h"
+
+1741196958 c:\users\admin\desktop\taller original\primergrado.h
+	<stdio.h>
+	"boolean.h"
+
+1741196958 c:\users\admin\desktop\taller original\segundogrado.h
+	<stdio.h>
+
+1741224743 source:c:\users\admin\desktop\taller original\listadestrings.cpp
+	"listadestrings.h"
+
+1741196958 c:\users\admin\desktop\taller original\listadestrings.h
+	"string.h"
+
+1741356917 source:c:\users\admin\desktop\taller original\main.cpp
+	<stdio.h>
+	"ABBEcuaciones.h"
+	"listadestrings.h"
+	"ecuacion.h"
+
+1741224437 c:\users\admin\desktop\taller original\abbecuaciones.h
+	"ecuacion.h"
+
+1741196958 source:c:\users\admin\desktop\taller original\primergrado.cpp
+	"primerGrado.h"
+
+1741196958 source:c:\users\admin\desktop\taller original\segundogrado.cpp
+	"segundoGrado.h"
+
+1741237701 source:c:\users\admin\desktop\taller original\string.cpp
+	"string.h"
+
+1741196958 source:c:\users\admin\desktop\taller original\tipodegrado.cpp
+	"tipodegrado.h"
+
+1741237701 source:c:\users\admin\desktop\taller original\abbecuaciones.cpp
+	"ABBEcuaciones.h"
+
+1741237701 source:c:\users\lool1\desktop\taller original\taller original\abbecuaciones.cpp
+	"ABBEcuaciones.h"
+
+1741224437 c:\users\lool1\desktop\taller original\taller original\abbecuaciones.h
+	"ecuacion.h"
+
+1741356862 c:\users\lool1\desktop\taller original\taller original\ecuacion.h
+	"string.h"
+	"tipodegrado.h"
+	"primerGrado.h"
+	"segundoGrado.h"
+
+1741223603 c:\users\lool1\desktop\taller original\taller original\string.h
+	"boolean.h"
+
+1741196958 c:\users\lool1\desktop\taller original\taller original\boolean.h
+	<stdio.h>
+
+1741196958 c:\users\lool1\desktop\taller original\taller original\tipodegrado.h
+	<stdio.h>
+	"boolean.h"
+
+1741196958 c:\users\lool1\desktop\taller original\taller original\primergrado.h
+	<stdio.h>
+	"boolean.h"
+
+1741196958 c:\users\lool1\desktop\taller original\taller original\segundogrado.h
+	<stdio.h>
+
+1741196958 source:c:\users\lool1\desktop\taller original\taller original\boolean.cpp
+	"boolean.h"
+
+1741390625 source:c:\users\lool1\desktop\taller original\taller original\ecuacion.cpp
+	"ecuacion.h"
+	<math.h>
+
+1741224743 source:c:\users\lool1\desktop\taller original\taller original\listadestrings.cpp
+	"listadestrings.h"
+
+1741196958 c:\users\lool1\desktop\taller original\taller original\listadestrings.h
+	"string.h"
+
+1741196958 source:c:\users\lool1\desktop\taller original\taller original\primergrado.cpp
+	"primerGrado.h"
+
+1741196958 source:c:\users\lool1\desktop\taller original\taller original\segundogrado.cpp
+	"segundoGrado.h"
+
+1741237701 source:c:\users\lool1\desktop\taller original\taller original\string.cpp
+	"string.h"
+
+1741196958 source:c:\users\lool1\desktop\taller original\taller original\tipodegrado.cpp
+	"tipodegrado.h"
+
+1741391157 source:c:\users\lool1\desktop\taller original\taller original\main.cpp
+	<stdio.h>
+	"ABBEcuaciones.h"
+	"listadestrings.h"
+	"ecuacion.h"
+
+1741640150 source:c:\users\lool1\documents\taller original\abbecuaciones.cpp
+	"ABBEcuaciones.h"
+
+1741640150 c:\users\lool1\documents\taller original\abbecuaciones.h
+	"ecuacion.h"
+
+1741640150 c:\users\lool1\documents\taller original\ecuacion.h
+	"string.h"
+	"tipodegrado.h"
+	"primerGrado.h"
+	"segundoGrado.h"
+
+1741640150 c:\users\lool1\documents\taller original\string.h
+	"boolean.h"
+
+1741640150 c:\users\lool1\documents\taller original\boolean.h
+	<stdio.h>
+
+1741640150 c:\users\lool1\documents\taller original\tipodegrado.h
+	<stdio.h>
+	"boolean.h"
+
+1741640150 c:\users\lool1\documents\taller original\primergrado.h
+	<stdio.h>
+	"boolean.h"
+
+1741640150 c:\users\lool1\documents\taller original\segundogrado.h
+	<stdio.h>
+
+1741640150 source:c:\users\lool1\documents\taller original\boolean.cpp
+	"boolean.h"
+
+1741640150 source:c:\users\lool1\documents\taller original\ecuacion.cpp
+	"ecuacion.h"
+	<math.h>
+
+1741640150 source:c:\users\lool1\documents\taller original\listadestrings.cpp
+	"listadestrings.h"
+
+1741640150 c:\users\lool1\documents\taller original\listadestrings.h
+	"string.h"
+
+1741640150 source:c:\users\lool1\documents\taller original\primergrado.cpp
+	"primerGrado.h"
+
+1741640150 source:c:\users\lool1\documents\taller original\segundogrado.cpp
+	"segundoGrado.h"
+
+1741640150 source:c:\users\lool1\documents\taller original\string.cpp
+	"string.h"
+
+1741640150 source:c:\users\lool1\documents\taller original\tipodegrado.cpp
+	"tipodegrado.h"
+
+1741640918 source:c:\users\lool1\documents\taller original\main.cpp
+	<stdio.h>
+	"ABBEcuaciones.h"
+	"listadestrings.h"
+	"ecuacion.h"
+
+1741742244 source:c:\users\lool1\desktop\taller original\main.cpp
+	<stdio.h>
+	"ABBEcuaciones.h"
+	"listadestrings.h"
+	"ecuacion.h"
+
+1741737929 c:\users\lool1\desktop\taller original\abbecuaciones.h
+	"ecuacion.h"
+
+1741737929 c:\users\lool1\desktop\taller original\ecuacion.h
+	"string.h"
+	"tipodegrado.h"
+	"primerGrado.h"
+	"segundoGrado.h"
+
+1741736247 c:\users\lool1\desktop\taller original\string.h
+	"boolean.h"
+
+1741742993 c:\users\lool1\desktop\taller original\boolean.h
+	<stdio.h>
+
+1741737929 c:\users\lool1\desktop\taller original\tipodegrado.h
+	<stdio.h>
+	"boolean.h"
+
+1741737929 c:\users\lool1\desktop\taller original\primergrado.h
+	<stdio.h>
+	"boolean.h"
+
+1741737929 c:\users\lool1\desktop\taller original\segundogrado.h
+	<stdio.h>
+
+1741737929 c:\users\lool1\desktop\taller original\listadestrings.h
+	"string.h"
+
+1741741930 source:c:\users\lool1\desktop\taller original\abbecuaciones.cpp
+	"ABBEcuaciones.h"
+
+1741742985 source:c:\users\lool1\desktop\taller original\boolean.cpp
+	"boolean.h"
+
+1741740959 source:c:\users\lool1\desktop\taller original\ecuacion.cpp
+	"ecuacion.h"
+	<math.h>
+
+1741736247 source:c:\users\lool1\desktop\taller original\listadestrings.cpp
+	"listadestrings.h"
+
+1741736247 source:c:\users\lool1\desktop\taller original\primergrado.cpp
+	"primerGrado.h"
+
+1741736247 source:c:\users\lool1\desktop\taller original\segundogrado.cpp
+	"segundoGrado.h"
+
+1741736247 source:c:\users\lool1\desktop\taller original\string.cpp
+	"string.h"
+
+1741736247 source:c:\users\lool1\desktop\taller original\tipodegrado.cpp
+	"tipodegrado.h"
+

@@ -1,9 +1,14 @@
 #ifndef TIPODEGRADO_H_INCLUDED
 #define TIPODEGRADO_H_INCLUDED
 #include <stdio.h>
+#include "boolean.h"
 
 typedef enum {primerGrado, segundoGrado} tipoGrado;
 
-/// AGREGAR ACA LOS CABEZALES DE LOS PROCEDIMIENTOS CARGAR Y MOSTRAR (similares a como se carga y se muestra boolean)
 
+void cargarGrado (boolean &b);
+/// carga el grado por teclado
+
+void mostrarGrado (boolean b);
+/// muestra el grado por pantalla
 #endif // TIPODEGRADO_H_INCLUDED

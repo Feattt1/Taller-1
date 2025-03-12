@@ -5,37 +5,45 @@
 const int MAX = 80;
 typedef char * string;
 
-/// AGREGAR TODOS LOS CABEZALES DEL MODULO STRING DE PROGRAMACION 2
-/// strcrear, strcop, strlar, etc.
-
-/// PONER, JUNTO A CADA CABEZAL, UN COMENTARIO CON UNA BREVE DESCRIPCION DE LO QUE HACE LA OPERACION
-/// Y, SI CORRESPONDE, UNA PRECONDICION
-
+void print (string s);
+/// Imprime el string por pantalla ///
 void scan (string &s);
-boolean streq (string s1, string s2);
+/// Carga un string por pantalla ///
 void strDestruir (string &s);
-
+/// Libera la memoria dinamica asignada a string ///
 boolean esAlfabetico (string s);
+/// Verifica si el string contiene solo valores alfabeticos ///
 boolean esEntero (string s);
+/// Verifica si el string contiene solo valores tipo int ///
 int stringAEntero (string s);
-boolean existeArchivo (string nombreArchivo);
-
-/// TIPS PARA LAS ULTIMAS CUATRO OPERACIONES
-///
-/// esAlfabetico: hay que recorrer el string revisando que en cada celda haya solamente una letra (mayus o minusc)
-///
-/// esEntero: hay que recorrer el string revisando que en cada celda haya solamente un digito entre '0' y '9'
-///           tambien podria pasar que en la celda 0 haya un signo '-'
-///
-/// stringAEntero: hay que recorrer el string, ir convirtiendo cada digito en entero e ir acumulando
-///
-///   ['-', '7', '3', '5', '\0']  -----> el resultado deberia ser el entero -735
-///     0    1    2    3    4
-///
-/// pensar un algoritmo para ir recorriendo desde el \0 hacia la izquierda, convirtiendo de char a entero
-/// y hay que ir acumulando segun unidades, decenas, centenas, etc. Por ej: 5 + 10*3 + 100*7 y luego todo por (-1)
-///
-/// existeArchivo: traerla del practico 12 de Programacion 2
-
+/// Recibe un string y lo convierte en int ///
+int strlar (string s);
+/// Devuelve el largo de un string ///
+boolean strmen (string s1, string s2);
+/// Recibe dos strings y devuelve TRUE si el primero es menor (en orden alfabetico) ///
+boolean streq (string s1, string s2);
+/// Compara dos strings y devuelve TRUE si son iguales ///
+void strcop (string &s1,string s2);
+/// Copia el segundo string en el primero ///
+void strcon (string &s1, string s2);
+/// Concatena el segundo string en el primero ///
+void strswp (string &s1, string &s2);
+/// Recibe dos strings y devuelve el primero en el segundo y el segundo en el primero ///
+void Bajar_String (string s, FILE * f);
+/// Escribe en el archivo los caracteres del string s (incluido '\0')///
+/// Precondición: El archivo viene abierto para escritura.///
+void Levantar_String (string &s, FILE * f);
+/// Lee desde el archivo los caracteres del string s.///
+/// Precondición: El archivo viene abierto para lectura. ///
+void strcrear (string &s);
+/// crea un string con memoria dinamica
+void dividirString(string s, string &primero, string &resto);
+/// dividir el string s en dos; en primero guarda la primera palabra de s y en resto todo lo demas. ///
+/// precondicion: s no es vacio
+void eliminarBlancosPrincipio (string s, string &sb);
+/// eliminar los espacios en blanco al principio de un string ///
+/// precondicion: s no es vacio
+boolean esVacio(string s);
+/// verifica si el string es vacio, es decir '\0'
 
 #endif // STRING_H_INCLUDED

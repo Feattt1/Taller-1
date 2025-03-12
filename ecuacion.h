@@ -12,21 +12,48 @@ typedef struct { string ident;
                        } coeficientes;
                } Ecuacion;
 
-/// PONER, JUNTO A CADA CABEZAL, UN COMENTARIO CON UNA BREVE DESCRIPCION DE LO QUE HACE LA OPERACION
-/// Y, SI CORRESPONDE, UNA PRECONDICION
+
 
 Ecuacion crearEcuacionPrimero (string ident, int a, int b);
-Ecuacion crearEcuacionSegundo (string ident, int a, int b, int c);
-void desplegarEcuacion (Ecuacion e);
-tipoGrado darDiscriminante (Ecuacion e);
-float resolverPrimerGrado (Ecuacion e);
-void resolverSegundoGrado (Ecuacion e, int &cantSol, float &x1, float &x2);
-void escribirEcuacion (Ecuacion e, FILE * f);
-void leerEcuacion (Ecuacion &e, FILE * f);
-void destruirEcuacion (Ecuacion &e);
-Ecuacion sumarEcuaciones (Ecuacion s, Ecuacion p, string ident);
+/// Crea la ecuacion de primer grado
 
-/// AGREGAR LA FUNCION SELECTORA QUE DEVUELVE EL IDENTIFICADOR DE LA ECUACION
-/// AGREGAR LAS DOS FUNCIONES SELECTORAS QUE DEVUELVEN, RESPECTIVAMENTE LOS CAMPOS PRIMER_GRADO y SEGUNDO_GRADO de la union
+Ecuacion crearEcuacionSegundo (string ident, int a, int b, int c);
+/// Crea la ecuacion de segundo grado
+
+void desplegarEcuacion (Ecuacion e);
+/// Desplegar ecuacion
+
+tipoGrado darDiscriminante (Ecuacion e);
+/// Devuelve el tipo de grado de la ecuacion
+
+float resolverPrimerGrado (Ecuacion e);
+/// Resuelve la ecuacion de primer grado
+
+float resolverSegundoGrado (Ecuacion e, int &cantSol, float &x1, float &x2);
+/// Resuelve la ecuacion de segundo grado
+
+void escribirEcuacion (Ecuacion e);
+/// Escribe la ecuacion en el archivo
+
+void leerEcuacion (string ident, Ecuacion &e);
+/// lee la ecuacion que esta en el archivo
+
+void destruirEcuacion (Ecuacion &e);
+/// Destruye el identificador de la ecuacion
+
+Ecuacion sumarEcuaciones (Ecuacion s, Ecuacion p, string ident);
+/// suma las ecuaciones dadas
+
+void darIdent (Ecuacion e, string &ident);
+/// Devuelve identificador de la ecuacion
+
+ecuacionPrimerGrado darCoeficientesPrimerGrado (Ecuacion e);
+/// Devuelve coeficientes si es de primer grado
+
+ecuacionSegundoGrado darCoeficientesSegundoGrado (Ecuacion e);
+/// Devuelve coeficientes si es de segundo grado
+
+boolean esValida (Ecuacion e);
+/// Determina si la ecuacion es valida (1er grado coef x != 0, 2do grado coef x^2 != 0)
 
 #endif // ECUACION_H_INCLUDED

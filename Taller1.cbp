@@ -27,34 +27,44 @@
 					<Add option="-s" />
 				</Linker>
 			</Target>
+			<Target title="primerGrado">
+				<Option output="bin/primerGrado/Taller1" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="bin/primerGrado/" />
+				<Option object_output="obj/primerGrado/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
 		</Build>
 		<Compiler>
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="ABBEcuaciones.h">
-			<Option target="&lt;{~None~}&gt;" />
+		<Unit filename="ABBEcuaciones.cpp">
+			<Option target="Release" />
+			<Option target="primerGrado" />
 		</Unit>
-		<Unit filename="boolean.h">
-			<Option target="&lt;{~None~}&gt;" />
-		</Unit>
+		<Unit filename="ABBEcuaciones.h" />
+		<Unit filename="boolean.cpp" />
+		<Unit filename="boolean.h" />
+		<Unit filename="ecuacion.cpp" />
 		<Unit filename="ecuacion.h" />
-		<Unit filename="listadestrings.h">
-			<Option target="&lt;{~None~}&gt;" />
-		</Unit>
+		<Unit filename="listadestrings.cpp" />
+		<Unit filename="listadestrings.h" />
 		<Unit filename="main.cpp" />
-		<Unit filename="primerGrado.h">
-			<Option target="&lt;{~None~}&gt;" />
-		</Unit>
-		<Unit filename="segundoGrado.h">
-			<Option target="&lt;{~None~}&gt;" />
-		</Unit>
-		<Unit filename="string.h">
-			<Option target="&lt;{~None~}&gt;" />
-		</Unit>
-		<Unit filename="tipodegrado.h">
-			<Option target="&lt;{~None~}&gt;" />
-		</Unit>
+		<Unit filename="primerGrado.cpp" />
+		<Unit filename="primerGrado.h" />
+		<Unit filename="segundoGrado.cpp" />
+		<Unit filename="segundoGrado.h" />
+		<Unit filename="string.cpp" />
+		<Unit filename="string.h" />
+		<Unit filename="tipodegrado.cpp" />
+		<Unit filename="tipodegrado.h" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
